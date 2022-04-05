@@ -194,7 +194,7 @@ const App = () => {
       <div className="landing">
         <h1>Welcome to the Baba DAO</h1>
         <button onClick={connectWithMetamask} className="btn-hero">
-          Connect your wallet
+          Connectez votre wallet
         </button>
       </div>
     );
